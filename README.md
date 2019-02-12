@@ -1,2 +1,2 @@
    ## WasteSorter
-   ![Screenshot](Images/Screenshot-Sample.jpg)
+   ![Screenshot-Sample](Images/Screenshot-Sample.jpg)
