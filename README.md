@@ -1,4 +1,4 @@
-  ![Screenshot-Sample](Images/Screenshot-Sample.png)
+  ![Screenshot-sample1](Images/Screenshot-Sample.jpg)
 
 
 ## Waste Sorter 
